@@ -1,3 +1,5 @@
+package shape;
+
 public class Triangle implements Shape {
 
     private final int height;

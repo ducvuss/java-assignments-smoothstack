@@ -1,3 +1,5 @@
+package shape;
+
 public class Rectangle implements Shape {
 
     private final int width;
